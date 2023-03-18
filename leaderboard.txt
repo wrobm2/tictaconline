@@ -1,1 +1,0 @@
-{"player_x_name": "tommy", "player_o_name": "darrell"}
