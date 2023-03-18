@@ -1,1 +1,2 @@
 tommy:tommy:daniel
+daniel:daniel:tommy
